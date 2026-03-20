@@ -18,10 +18,9 @@ def generar_daño(minimo, maximo):
 # BARRA DE VIDA
 # ─────────────────────────────
 def barra_vida(hp, max_hp):
-    total = 20
+    total = int(max_hp / 5)  # escala proporcional
     llenas = int((hp / max_hp) * total)
     return "█" * llenas + "-" * (total - llenas)
-
 # ─────────────────────────────
 # MOSTRAR ESTADO
 # ─────────────────────────────
