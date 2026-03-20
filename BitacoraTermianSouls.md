@@ -1,8 +1,8 @@
 # 📓 Bitácora del Proyecto — Terminal Souls
 
-> *Estudiante:* [Tu nombre aquí]
-> *Curso / Materia:* [Nombre del curso]
-> *Fecha de inicio:* [DD/MM/AAAA]
+> *Estudiante:* [carlos muñoz, luis gonzalez]
+> *Curso / Materia:* [clan 4]
+> *Fecha de inicio:* [19/03/2026]
 > *Lenguaje:* Python
 
 -----
@@ -81,34 +81,37 @@ terminal_souls.py
 
 -----
 
-### Entrada 2 — [DD/MM/AAAA]
+### Entrada 2 — [19/3/2026]
 
 *¿Qué se hizo?*
-
+definimos los valores de casa personaje
 *¿Cómo se hizo?*
-
+se tomo en cuenta las especificaciones del tl 
 *¿Qué aprendiste?*
-
+agregar funciones dentro del marco def
 -----
 
-### Entrada 3 — [DD/MM/AAAA]
+### Entrada 3 — [19/3/2026]
 
 *¿Qué se hizo?*
-
+agregamos interfaz
 *¿Cómo se hizo?*
-
+emojis y funciones de barra 
 *¿Qué aprendiste?*
-
+definir escala porposional
 -----
 
 ## 🐛 Registro de Errores
 
 ### Error 1
 
-- *Fecha:* [DD/MM/AAAA]
-- *Descripción:* ¿Qué error apareció? Copia el mensaje de error si puedes.
+- *Fecha:* [20/03/2026]
+- *Descripción:* ¿Qué error apareció? .
+- error en vacio
 - *Causa:* ¿Por qué ocurrió?
+- falta de definir un parametro
 - *Solución:* ¿Cómo lo corregiste?
+- agregue la def de la poscion del enemigo
 
 -----
 
@@ -134,9 +137,11 @@ terminal_souls.py
 
 ### Modificación 1
 
-- *Fecha:* [DD/MM/AAAA]
+- *Fecha:* [20/03/2025]
 - *¿Qué se cambió?* Describe qué parte del código fue modificada.
+- la barra de vida de los usuario fue cambiada para hacerla porposional
 - *¿Por qué se cambió?* ¿Era un error, una mejora o un requisito nuevo?
+- era una mejora , para la experiencia del usuario 
 - *Antes:*
 
 python
